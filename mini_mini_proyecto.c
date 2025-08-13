@@ -1,6 +1,3 @@
-// mini_mini_proyecto.c
-// Simulación simple de intersección con vehículos y semáforos usando OpenMP
-// Pasos 1–7 según el enunciado (estructuras, init, semáforos, vehículos, ciclo, dinámico, prueba)
 
 #include <stdio.h>
 #include <stdlib.h>
